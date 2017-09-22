@@ -1,0 +1,11 @@
+{
+  "name": "hans2103/rssauthadmin",
+  "type": "magento-module",
+  "homepage": "https://github.com/hans2103/magento1-rssauthadmin",
+  "description": "Workaround to create array if unserialize throws exception",
+  "authors": [
+    {
+      "name": "Hans Kuijpers"
+    }
+  ]
+}
